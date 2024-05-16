@@ -1,5 +1,2 @@
 go
 cook
-clean
-samoyiddin
-be master in python
